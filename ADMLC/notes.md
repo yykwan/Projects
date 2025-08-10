@@ -74,7 +74,8 @@
 #### Integration with more than one evidece:
 1. Tissue level: Mann-Whitney U test for differential expreession and calculations for fold changes
 2. Validation for single cell: Use mutual info for market identification and dysplasia-annoted scRNA-seq data
-
+## Conclusion
+Although submission was not accepted, this was a fun and enriching competition.
 
 
 
